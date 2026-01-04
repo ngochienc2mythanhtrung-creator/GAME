@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Edu-Path",
+  "description": "An interactive learning platform that generates structured lessons with theory and quizzes from uploaded documents using Gemini API.",
+  "requestFramePermissions": []
+}
